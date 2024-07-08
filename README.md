@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pastelzenny
 - 🌱 I’m currently learning Javascript & Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @pastelzen on discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have vitiligo
 
